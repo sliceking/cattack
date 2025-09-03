@@ -3,7 +3,9 @@
 one:
   name: MyString
   role: one
+  email: ok123@gmail.com
 
 two:
   name: MyString
   role: two
+  email: nope123@gmail.com
